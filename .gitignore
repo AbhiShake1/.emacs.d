@@ -1,0 +1,11 @@
+straight/
+etc/
+var/
+elpa/
+server/
+auto-save-list/
+parinfer-rust/
+projectile-bookmarks.eld
+places
+/eln-cache/
+/backups/
